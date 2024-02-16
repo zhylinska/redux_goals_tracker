@@ -2,6 +2,7 @@
   "name": "redux_goals_tracker",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zhylinska.github.io/redux_goals_tracker/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
     "@testing-library/jest-dom": "^5.17.0",
