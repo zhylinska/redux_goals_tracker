@@ -1,0 +1,33 @@
+.goalsList {
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+    margin: 0 auto;
+}
+
+.goalsListItem {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.3rem;
+    justify-content: left;
+    text-align: left;
+    gap: 1rem;
+    padding-bottom: 1rem;
+}
+
+.goal {
+    padding: 0.5rem 1rem;
+    font-weight: bolder;
+    text-transform: lowercase;
+}
+
+.add {
+    padding: 0.5rem 1rem;
+    border-radius: 15px;
+    border: transparent;
+    font-size: 1rem;
+    color: #2d2525;
+}
+.add:hover {
+    background: #f1d6b7;
+}

@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background: url("../../public/img/background.jpeg") no-repeat center center/cover;
+  width: 100%;
+  height: 100vh;
+  color: #2d2525;
+}
+h1 {
+  font-size: 5rem;
+  color: #bc7e0e;
+  padding-top: 5rem;
+}
+
+
