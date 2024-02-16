@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae678d5f.css",
-    "main.js": "/static/js/main.0395b9ea.js",
-    "static/js/787.46a8ddc2.chunk.js": "/static/js/787.46a8ddc2.chunk.js",
-    "static/media/background.jpeg": "/static/media/background.13ca73f1dbfc4472d73d.jpeg",
-    "index.html": "/index.html",
-    "main.ae678d5f.css.map": "/static/css/main.ae678d5f.css.map",
-    "main.0395b9ea.js.map": "/static/js/main.0395b9ea.js.map",
-    "787.46a8ddc2.chunk.js.map": "/static/js/787.46a8ddc2.chunk.js.map"
+    "main.css": "/redux_goals_tracker/static/css/main.67c66241.css",
+    "main.js": "/redux_goals_tracker/static/js/main.b79faeb0.js",
+    "static/js/787.46a8ddc2.chunk.js": "/redux_goals_tracker/static/js/787.46a8ddc2.chunk.js",
+    "static/media/background.jpeg": "/redux_goals_tracker/static/media/background.13ca73f1dbfc4472d73d.jpeg",
+    "index.html": "/redux_goals_tracker/index.html",
+    "main.67c66241.css.map": "/redux_goals_tracker/static/css/main.67c66241.css.map",
+    "main.b79faeb0.js.map": "/redux_goals_tracker/static/js/main.b79faeb0.js.map",
+    "787.46a8ddc2.chunk.js.map": "/redux_goals_tracker/static/js/787.46a8ddc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae678d5f.css",
-    "static/js/main.0395b9ea.js"
+    "static/css/main.67c66241.css",
+    "static/js/main.b79faeb0.js"
   ]
 }
